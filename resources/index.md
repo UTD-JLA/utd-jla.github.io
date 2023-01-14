@@ -1,9 +1,3 @@
----
-layout: page
-title: Resources
-permalink: /resources
----
-
 # Resources
 
 # THE ABSOLUTE ESSENTIALS

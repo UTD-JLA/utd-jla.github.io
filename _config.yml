@@ -7,3 +7,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+header_pages:
+  - index.md
+  - resources/index.md
