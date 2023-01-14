@@ -1,6 +1,9 @@
-{% include navigation.html %}
+---
+title: リソース | Resources
+description: 日本語勉強のリソース | Japanese learning resources
+---
 
-# Resources
+{% include navigation.html %}
 
 # THE ABSOLUTE ESSENTIALS
 These are resources you will probably *need*. Well, it's technically possible to go without them, people did learn Japanese before computers existed after all! But not using them (save for some future or current replacement for them) would be unnecessarily troublesome.
