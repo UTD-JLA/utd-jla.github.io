@@ -3,7 +3,7 @@ title: UT Dallas Japanese Language Association
 description: We are a club for students of the Japanese language, both in classes and in self study.
 ---
 
-{% include navigation.html}
+{% include navigation.html %}
 
 ## ついて | About
 
