@@ -1,0 +1,7 @@
+# Belongs at: /_data/navigation.yml
+
+- title: ホーム | Home
+  url: /
+
+- title: リソース | Resources
+  url: /resources/

@@ -12,7 +12,7 @@ This is a small site to collect helpful links and resources for our members. Mor
 - [Resources](resources/index.md)
 
 ## メンバーになる | Join
-Join us on discord at https://discord.gg/9vmgxsvDCy
+Join us on discord at <https://discord.gg/9vmgxsvDCy>
 
 ## 2023春の学期 | Spring 2023 semester
 
