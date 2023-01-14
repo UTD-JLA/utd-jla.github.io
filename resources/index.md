@@ -1,3 +1,5 @@
+{% include navigation.html}
+
 # Resources
 
 # THE ABSOLUTE ESSENTIALS
