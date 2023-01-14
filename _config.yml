@@ -1,4 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
+title: UT Dallas Japanese Language Association
+description: 日本語協会へようこそ！ We are the UT Dallas Japanese Language Association (JLA), a club that aims to facilitate the learning of the Japanese language for both students of Japanese classes on campus & students interested in learning on their own.
 plugins:
 - jekyll-remote-theme
 - jekyll-relative-links
