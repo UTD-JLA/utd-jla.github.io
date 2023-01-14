@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resources
+permalink: /resources
+---
+
 # Resources
 
 # THE ABSOLUTE ESSENTIALS
@@ -84,5 +90,5 @@ This is how you get text from your anime, visual novel, manga, etc into somethin
 
 ### Manga
 * **mokuro**
-    * A bit of a pain to setup, but great program. It's like asbplayer but for manga: <<https://github.com/kha-white/mokuro>
+    * A bit of a pain to setup, but great program. It's like asbplayer but for manga: <https://github.com/kha-white/mokuro>
 
