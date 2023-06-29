@@ -12,17 +12,18 @@ UTダラス校日本語協会へようこそ！ Welcome to the Japanese Language
 ## メンバーになる | Join
 Join us on discord at <https://discord.gg/9vmgxsvDCy>
 
-## 2023春の学期 | Spring 2023 semester
+## 2023春の学期 | Fall 2023 semester
 
 ### 会議 | Meetings
-火曜日の午後7時、SCI 3.260 | Tuesdays at 7PM in SCI 3.260
+To be determined
 
 ### 役員 | Officers
-* Adarsha Pokkulandra - President
-* Esther Yun - Vice President
-* Timothy Sweet
-* Jack Le
-* John Whatley
+* Angela Tran - President
+* Jack Le - Vice President
+* Tri Nguyen - Secretary
+* Justin Sewell - Student Outreach
+* Zi Anyiam - Treasurer
+* Tim Sweet - Webmaster
 
 ### スポンサー | Sponsor
 * Chieko Hoki - Japanese Professor
