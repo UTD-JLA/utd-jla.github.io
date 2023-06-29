@@ -12,7 +12,7 @@ UTダラス校日本語協会へようこそ！ Welcome to the Japanese Language
 ## メンバーになる | Join
 Join us on discord at <https://discord.gg/9vmgxsvDCy>
 
-## 2023春の学期 | Fall 2023 semester
+## 2023秋の学期 | Fall 2023 semester
 
 ### 会議 | Meetings
 To be determined
