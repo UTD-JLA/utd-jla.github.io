@@ -12,18 +12,23 @@ UTダラス校日本語協会へようこそ！ Welcome to the Japanese Language
 ## メンバーになる | Join
 Join us on discord at <https://discord.gg/9vmgxsvDCy>
 
-## 2023秋の学期 | Fall 2023 semester
+## 2024春の学期 | Spring 2024 semester
 
 ### 会議 | Meetings
-To be determined
+Thurday at 7 PM
 
 ### 役員 | Officers
 * Angela Tran - President
 * Jack Le - Vice President
 * Tri Nguyen - Secretary
 * Justin Sewell - Student Outreach
-* Zi Anyiam - Treasurer
+* Rin Reed - Treasurer
 * Tim Sweet - Webmaster
+
+#### アシスタント役員 | Assistant officers
+* Kokoro Maruo
+* Zi Anyiam
+* Kees Bassett
 
 ### スポンサー | Sponsor
 * Chieko Hoki - Japanese Professor
