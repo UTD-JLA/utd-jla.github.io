@@ -16,11 +16,10 @@ These are resources you will probably *need*. Well, it's technically possible to
     * [Read the Manual](https://docs.ankiweb.net/#/)
     * You need flashcard decks for anki of course. You can use **premade decks** (see the relevant section) or create cards using a **card template**, usually by mining words from your immersion
 
-* **Yomichan** - A pop-up dictionary browser extension which can show you definitions and other information about words just by hovering over them while holding shift. It can also integrate with Anki to create cards from the sentences you come across. You will be using this constantly for reading. Note: As Yomichan is no longer maintained, at some point in the future, it will be replaced by TMW's fork [Yomitan](https://github.com/themoeway/yomitan).
-    * [Install for Firefox](https://github.com/FooSoft/yomichan/releases/tag/22.10.23.0)
-    * [Install for chromium-based](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami?hl=en-US)
+* **Yomitan** - A pop-up dictionary browser extension which can show you definitions and other information about words just by hovering over them while holding shift. It can also integrate with Anki to create cards from the sentences you come across. You will be using this constantly for reading. Note: This was formerly Yomichan. Yomichan is no longer maintained; Yomitan is the actively developed fork.
+    * [Install for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/)
+    * [Install for chromium-based](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)
     * [How to set it up, install the needed dictionaries, etc (from TheMoeWay)](https://learnjapanese.moe/yomichan/)
-    * Information on advanced functionality (by Tatsumoto): <https://tatsumoto.neocities.org/blog/setting-up-yomichan>
     * **Recommended dictionaries and setup listed below**
 
 * A text extraction method for content outside the browser (see relevant section)
@@ -47,10 +46,12 @@ I strongly recommend reading both of these guides, as well as the pages they lin
 
 ## Anki resources
 ### Premade decks
-* **Kana** - if you are a beginner, you'll need to learn the kana first: [by writing](https://ankiweb.net/shared/info/1233553736) or by [recognition](https://ankiweb.net/shared/info/839782116), depending on your preference
-* **Core 2.3K VN Order deck** - "High Quality Cards for the Most Common ~1,970 Words from Visual Novels, Light Novels, Newspapers, Magazines, Blogs, Internet Forums and more." This is a basic vocabulary deck with the most common words you'll see in JP media (with katakana loanwords and other redundant stuff stripped out). This is the recommended way to begin studying vocabulary as the goal is to focus on loading up on a large quantity of relevant vocab that way your immersion can be as comprehensible as possible.
+* **Kana** - if you are a beginner, you'll need to learn the kana first: [by writing](https://ankiweb.net/shared/info/1312311543) or by [recognition](https://ankiweb.net/shared/info/839782116), depending on your preference
+* **Kaishi (Core 1.5k)** - "a modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary." - a modern attempt by TheMoeWay to build a high-quality vocabulary deck for beginners, replacing Core 2.3k. This deck is **strongly recommended**. This is a basic vocabulary deck with the most common words you'll see in JP media (with katakana loanwords and other redundant stuff stripped out). This is a good way to begin studying vocabulary as the goal is to focus on loading up on a large quantity of relevant vocab that way your immersion can be as comprehensible as possible.
+    * Read more and download: <https://github.com/donkuri/Kaishi>
+* Core 2.3K VN Order deck - "High Quality Cards for the Most Common ~1,970 Words from Visual Novels, Light Novels, Newspapers, Magazines, Blogs, Internet Forums and more." This was the recommendation prior to Kaishi.
     * <https://anacreondjt.gitlab.io/docs/coredeck/>
-* The Tango decks (also known as the ankidrone starter pack) - essential vocab and grammar, roughly grouped by JLPT level. I used to recommend this, but no longer do now that the improved Core 2.3k exists. It has a large amount of highly unnatural, textbook-ish sentences, obvious katakana loanwords, and rare vocabulary only relevant for textbook-style self introductions or travel. That said, you may still find this useful as it focuses on entire sentences rather than targeted words. You probably shouldn't go beyond the N4 deck unless you are specifically studying for the JLPT test though. Focus on sentence mining or grab the Core 6k.
+* The Tango decks (also known as the ankidrone starter pack) - essential vocab and grammar, roughly grouped by JLPT level. This is **not recommended** *except for specifically studying for the JLPT tests*. It has a large amount of highly unnatural, textbook-ish sentences, obvious katakana loanwords, and rare vocabulary only relevant for textbook-style self introductions or travel. That said, it is included for posterity due to being formelry popular, and you may still find this useful as it focuses on entire sentences rather than targeted words. Focus on sentence mining or grab the Core 6k.
     * Read more and download: <https://tatsumoto.neocities.org/blog/basic-vocabulary#anki-deck>
     * Alternate download from TMW (it's probably the same thing): <https://learnjapanese.moe/resources/#vocabulary>
 
@@ -62,6 +63,7 @@ Both of the following can be configured to use any of the note types described i
 
 * **jp-mining-note** - This is a relatively recent one and has quickly become a favorite of TheMoeWay community. It has a lot of features and is extremely well documented. As the name implies, it is a highly versatile template for sentence mined cards
    * Setup tutorial, very easy to follow: <https://aquafina-water-bottle.github.io/jp-mining-note/>
+   * **NOTE: for the time being, follow this link instead** (aquafina hasn't been online to merge some critical bugfixes): https://arbyste.github.io/jp-mining-note/
 * Tatsumoto's note types - A bit simpler template. You may wish to convert other premade decks (like the Core 2.3k) to one of these note types. <https://github.com/Ajatt-Tools/AnkiNoteTypes>
 
 ### Anki addons
@@ -72,9 +74,10 @@ When you first install Yomichan, you'll need some dictionaries. Ignore the ones 
 
 ### Recommended dictionaries
 At a minimum, you'll want the following:
-* **JMDict Extra** - The standard Japanese-English dictionary. This is updated very frequently, so be sure to get a new version from <https://github.com/Aquafina-water-bottle/jmdict-english-yomichan> every few months. I recommend `jmdict_english_extra` as it has nice extra info like synonyms and antonyms.
-* **デジタル大辞泉 画像無し** - One of the largest monolingual dictionaries (with image data stripped out). [Get it from Marv's repo](https://github.com/MarvNC/yomichan-dictionaries#japanese-monolingual-dictionaries)
-* **PixivLight** - A community created encyclopedia/dictionary combo. It has entries for internet slang that aren't found in normal dictionaries, as well as names of media, vtubers, doujin circles, etc. Compiled by Marv from TMW. [Get it from Marv's repo](https://github.com/MarvNC/yomichan-dictionaries#pixiv).
+* **JMDict**, **JMnedict**, and **KANJIDIC** - The standard Japanese-English dictionary. This is updated very frequently, so be sure to get a new version from <https://github.com/themoeway/jmdict-yomitan> every few months. Get `JMdict_english.zip`
+    * Alternatively, **Jitendex** - This is also based on the JMdict. It has prettier formatting, but I find it much more cluttery and don't prefer it. It's a matter of personal preference. <https://jitendex.org/>
+* **デジタル大辞泉** - One of the largest monolingual dictionaries (with image data stripped out). [Get it from Shoui's collection](https://drive.google.com/file/d/1UW4Ba-r50K7WMt2D6SAwBDy7UCDmJyQD/view?usp=drive_link)
+* **PixivLight** - A community created encyclopedia/dictionary combo. It has entries for internet slang that aren't found in normal dictionaries, as well as names of media, vtubers, doujin circles, etc. Compiled by Marv from TMW. [Get it from Marv's repo](https://github.com/MarvNC/pixiv-yomitan).
 * **JPDB Frequency** and **CC100 Frequency** - Importing at least one frequency dictionary is strongly recommended as it helps Yomichan sort terms and helps you determine how common a word is. JPDB is based on anime, VNs, light novels, etc, and CC100 is based on a large corpus of websites. [Get them from Marv's repo](https://github.com/MarvNC/yomichan-dictionaries#term-frequency)
 * **Kanjidic** - Click on kanji to get info about it. Download it from the same repo as the JMDict
 * **JPDB Kanji** - Click on a kanji to get a list of common words using it and a list of radicals to help you memorize it. [Get it from Marv's Repo](https://github.com/MarvNC/yomichan-dictionaries#kanji-info).
